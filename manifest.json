@@ -1,0 +1,21 @@
+{
+  "name": "Lupa",
+  "short_name": "Lupa",
+  "description": "Aplicativo Lupa",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#c0dee9",
+  "theme_color": "#0657a7",
+  "icons": [
+    {
+      "src": "imagens/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "imagens/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
